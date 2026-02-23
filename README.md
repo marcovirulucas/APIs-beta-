@@ -13,7 +13,7 @@ In some cases, an API key is required.
 **United States**
 - Bureau of Economic Analysis (BEA). Fecha de publicación: 13 de marzo
 - [Bureau of Labor Statistics (BLS)]()
-- Fiscal Data. Fecha de publicación: Fecha de publicación: 11 de marzo
+- Fiscal Data. Fecha de publicación: 11 de marzo
 - FRED. Fecha de publicación: 31 de marzo
 
 **Peru**
