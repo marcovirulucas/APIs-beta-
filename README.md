@@ -17,7 +17,7 @@ In some cases, an API key is required.
 - FRED. Fecha de publicación: 31 de marzo
 
 **Peru**
-- Banco Central de Reserva del Perú (BCRP).: Fecha de publicación: 20 de marzo
+- Banco Central de Reserva del Perú (BCRP). Fecha de publicación: 20 de marzo
 
 **World**
 - World Bank. Fecha de publicación: 04 de marzo
