@@ -1,5 +1,3 @@
-<img width="1026" height="221" alt="image" src="https://github.com/user-attachments/assets/cfc3c3ad-6582-4699-b216-7169b339485b" /># APIs
-
 ## Economic Data APIs with Python
 
 Contact: marcovl262@gmail.com; marco.virul@pucp.edu.pe
