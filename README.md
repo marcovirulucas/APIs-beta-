@@ -1,4 +1,4 @@
-# APIs
+<img width="1026" height="221" alt="image" src="https://github.com/user-attachments/assets/cfc3c3ad-6582-4699-b216-7169b339485b" /># APIs
 
 ## Economic Data APIs with Python
 
@@ -11,16 +11,17 @@ In some cases, an API key is required.
 ## Contents
 
 **United States**
-- Bureau of Economic Analysis (BEA). Fecha de publicación: 13 de marzo
-- [Bureau of Labor Statistics (BLS)]()
-- Fiscal Data. Fecha de publicación: 11 de marzo
-- FRED. Fecha de publicación: 31 de marzo
+- Bureau of Economic Analysis (BEA). Publication date: March 13
+- [Bureau of Labor Statistics (BLS)](https://github.com/marcovirulucas/APIs-beta-/blob/main/united_states/BLS.ipynb)
+- Fiscal Data. Publication date: March 11
+- FRED. Publication date: March 31
 
 **Peru**
-- Banco Central de Reserva del Perú (BCRP). Fecha de publicación: 20 de marzo
+- Banco Central de Reserva del Perú (BCRP). Publication date: March 20
 
 **World**
-- World Bank. Fecha de publicación: 04 de marzo
-- International Monetary Fund (IMF). Fecha de publicación: 06 de marzo
-- Organisation for Economic Co-operation and Development (OECD). Fecha de publicación: 27 de marzo
+- World Bank. Publication date: March 4
+- International Monetary Fund (IMF). Publication date: March 6
+- Organisation for Economic Co-operation and Development (OECD). Publication date: March 27
+
 
