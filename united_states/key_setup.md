@@ -1,9 +1,7 @@
 Follow these steps to set up your key in the environment. To ensure security and avoid exposing my private key in the code, I store the key in a separate file named `keys.py`
 
 1. **Obtain your Key:**
-
-  Get your free API key from the website of the institution. In the case of the Bureau of Labor Statistics, visit [BLS Registration page](https://data.bls.gov/registrationEngine/).
-
+Get your free API key from the website of the institution. In the case of the Bureau of Labor Statistics, visit [BLS Registration page](https://data.bls.gov/registrationEngine/).
 2. **Create a `keys.py` file:** 
 In your Google Colab file browser (or your local folder), create a file named `keys.py`.
 3. **Add your key:** Inside `keys.py`, add the following line:
