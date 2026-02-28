@@ -3,8 +3,10 @@ This folder contains Python scripts for automated data retrieval from major U.S.
 ## 🏛️ Data Sources & Coverage
 ### [BLS] Bureau of Labor Statistics
 - **Focus:** Labor market and price stability.
-- **Current Scripts:** - `BLS_inflation.py`: Fetches CPI (Consumer Price Index) data, specifically Year-over-Year (YoY) variations.
-- **Key Indicators:** CPI-U, Unemployment Rate, Payrolls.
+- **Current Scripts:**
+  - `BLS_inflation.py`\
+    Fetches Consumer Price Index (CPI) data, specifically Year-over-Year (YoY) variations.
+- **Key Indicators:** CPI and Unemployment Rate.
 ### [BEA] Bureau of Economic Analysis (Upcoming)
 - **Focus:** Economic growth and price stability.
 - **Planned Indicators:** GDP Growth and Personal Consumption Expenditures (PCE).
