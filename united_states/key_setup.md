@@ -6,9 +6,11 @@ In your Google Colab file browser (or your local folder), create a file named `k
 3. **Add your key:** Inside `keys.py`, add the following line:
 ```python
 bls_key = "YOUR_SECRET_KEY_HERE"
+```
 4. **Implementation:**
 The scripts are designed to import this key securely
 ```python
 import keys
 # Fetching the key from the keys.py file
 key = '{}'.format(keys.bls_key)
+```
