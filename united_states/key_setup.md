@@ -1,4 +1,4 @@
-Follow these steps to set up your key in the environment. To ensure security and avoid exposing my private key in the code, I store the key in a separate file named `keys.py`
+To ensure security and avoid exposing my private key in the code, I store it in a separate file named `keys.py`. Follow these steps to set up your key in the environment.
 
 1. **Obtain your Key.**
 Get your free API key from the website of the institution. In the case of the Bureau of Labor Statistics, visit [BLS Registration page](https://data.bls.gov/registrationEngine/).
